@@ -1,4 +1,4 @@
-# Snippets
+# Snippets_14112025
 
 ## Инструкция по развертыванию проекта
 1. `python3 -m venv django_venv`
