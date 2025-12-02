@@ -1,0 +1,68 @@
+[
+{
+    "model": "MainApp.snippet",
+    "pk": 1,
+    "fields": {
+        "name": "Hello world Snippet",
+        "lang": "py",
+        "code": "print(\"Hello world\")",
+        "creation_date": "2025-11-23T11:16:38.223Z",
+        "user": null
+    }
+},
+{
+    "model": "MainApp.snippet",
+    "pk": 2,
+    "fields": {
+        "name": "Second Snippet",
+        "lang": "py",
+        "code": "print(\"Second\")",
+        "creation_date": "2025-11-23T11:20:30.779Z",
+        "user": null
+    }
+},
+{
+    "model": "MainApp.snippet",
+    "pk": 7,
+    "fields": {
+        "name": "five snippet",
+        "lang": "go",
+        "code": "func many() {}",
+        "creation_date": "2025-11-28T18:14:19.713Z",
+        "user": null
+    }
+},
+{
+    "model": "MainApp.snippet",
+    "pk": 8,
+    "fields": {
+        "name": "first html",
+        "lang": "html",
+        "code": "<head></head>",
+        "creation_date": "2025-12-02T08:57:31.487Z",
+        "user": null
+    }
+},
+{
+    "model": "MainApp.snippet",
+    "pk": 12,
+    "fields": {
+        "name": "User's snippet",
+        "lang": "cpp",
+        "code": "cout<<'hello'",
+        "creation_date": "2025-12-02T14:40:32.064Z",
+        "user": 3
+    }
+},
+{
+    "model": "MainApp.snippet",
+    "pk": 13,
+    "fields": {
+        "name": "Example",
+        "lang": "js",
+        "code": "console.log(\"Date\")",
+        "creation_date": "2025-12-02T14:44:18.619Z",
+        "user": 1
+    }
+}
+]
